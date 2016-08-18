@@ -30,6 +30,7 @@ namespace FabrikamFiberMobileTest
         [Priority(0)]
         public void MobileHub_VerifyRenameTicketFromContextMenu()
         {
+            //testing CI
             Random random = new Random();
             int randomNumber = random.Next(10, 50);
             System.Threading.Thread.Sleep(randomNumber);
