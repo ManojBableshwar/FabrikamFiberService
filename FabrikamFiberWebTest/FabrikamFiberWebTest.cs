@@ -365,7 +365,7 @@ namespace FabrikamFiberWebTest
         [TestCategory("CriticalTest")]
         [TestProperty("Time", "Long")]
         [TestProperty("TestPass", "Accessibility")]
-        [Owner("Manoj Bableshwar")]
+        [Owner("manoj.bableshwar@outlook.com")]
         [Description("This is gets collections of service tickets and process them")]
         public void CollapseCollectionToNonempty()
         {
